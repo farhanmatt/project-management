@@ -1,0 +1,5 @@
+{
+  "env": {
+    "NEXTAUTH_URL": "https://matt-project-management.vercel.app"
+  }
+}
